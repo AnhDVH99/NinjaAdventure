@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd86fe391814e254295f2fda9f382315, type: 3}
+  m_Name: Noble_Dialogue
+  m_EditorClassIdentifier: 
+  Name: Noble
+  Icon: {fileID: 21300000, guid: 5313a8235fa0ae848b38d51cc076e033, type: 3}
+  HasInteraction: 1
+  InteractionType: 0
+  Greeting: Hello, Adventurer!
+  Dialogues:
+  - Are you looking for thrilling challenges with great reward?
+  - I have perfect task for you. Will you accept this?
